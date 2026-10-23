@@ -25,6 +25,7 @@
     "esbuild": "^0.23.1",
     "nanoid": "^5.0.7",
     "partyserver": "^0.0.55",
+    "partysocket": "^1.0.2",
     "react": "0.0.0-experimental-d1afcb43-20240903",
     "react-dom": "0.0.0-experimental-d1afcb43-20240903",
     "suspend-react": "^0.1.3"
